@@ -1,0 +1,15 @@
+/* BODY */
+body, .auth-body{
+    background-image: url('../../public/img/bg-food.jpg');
+    background-size: cover;
+}
+
+
+/* FOOTER */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
